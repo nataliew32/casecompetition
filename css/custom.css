@@ -134,6 +134,9 @@ p {
 .card{
     border-color: #6B0303;
     border-width: thin;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
 
 .fa-star {
